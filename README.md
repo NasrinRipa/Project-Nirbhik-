@@ -67,7 +67,6 @@
   - 4K@30fps
   - 1080p@60fps
 - **Field of View**: 75 degrees
-- **Price**: $35-45
 - **Features**: 
   - Autofocus
   - HDR
