@@ -78,9 +78,6 @@
 - **Lens**: 
   - Adjustable Focus
   - C/CS-mount compatible
-- **Price**: 
-  - Body: $50
-  - Lens: $25-50 additional
 
 ### B. USB Camera Alternatives
 
@@ -88,12 +85,10 @@
 - **Resolution**: 1080p@30fps
 - **Field of View**: 78 degrees
 - **Features**: Built-in compression
-- **Price**: $70-80
 
 #### 2. ELP USB Camera Module
 - **Resolution**: 1080p@30fps
 - **Features**: Wide angle options
-- **Price**: $30-40
 
 ## 5. System Compatibility and Recommendations
 
